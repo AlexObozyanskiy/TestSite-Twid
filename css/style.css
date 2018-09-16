@@ -704,7 +704,8 @@ a.yellow-button {
     z-index: 10;
     background-color: #fff;
     border: 1px solid;
-    border-radius: 3px; }
+    border-radius: 3px;
+    left: -87px; }
   .nav > li > a {
     padding: 5px 10px; }
   .help-block {
